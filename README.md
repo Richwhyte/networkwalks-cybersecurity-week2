@@ -104,7 +104,7 @@ The following screenshots document the practical activities performed during the
 | WhatWeb Enumeration | [📸 View Screenshot](02_whatweb.png) |
 | Nslookup Resolution | [📸 View Screenshot](03_nslookup.png) |
 | cURL Header Inspection | [📸 View Screenshot](04_curl_headers.png) |
-| WAFW00F Firewall Detection | [📸 View Screenshot](05_WAFW00F.png) |
+| WAFW00F Firewall Detection | [📸 View Screenshot](05_wafw00f.png) |
 | DNSRecon Enumeration | [📸 View Screenshot](06_DNSRecon.png) |
 
 ### 🌐 PM5 – NETWORK SCANNING WITH ZENMAP
