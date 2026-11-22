@@ -100,7 +100,7 @@ The following screenshots document the practical activities performed during the
 
 | Tool / Activity | Evidence |
 |:---|:---|
-| WHOIS Lookup | [📸 View Screenshot](01_WHOIS.png) |
+| WHOIS Lookup | [📸 View Screenshot](01_whois.png) |
 | WhatWeb Enumeration | [📸 View Screenshot](02_WhatWeb.png) |
 | Nslookup Resolution | [📸 View Screenshot](03_Nslookup.png) |
 | cURL Header Inspection | [📸 View Screenshot](04_cURL.png) |
