@@ -101,7 +101,7 @@ The following screenshots document the practical activities performed during the
 | Tool / Activity | Evidence |
 |:---|:---|
 | WHOIS Lookup | [📸 View Screenshot](01_whois.png) |
-| WhatWeb Enumeration | [📸 View Screenshot](02_WhatWeb.png) |
+| WhatWeb Enumeration | [📸 View Screenshot](02_whatweb.png) |
 | Nslookup Resolution | [📸 View Screenshot](03_Nslookup.png) |
 | cURL Header Inspection | [📸 View Screenshot](04_cURL.png) |
 | WAFW00F Firewall Detection | [📸 View Screenshot](05_WAFW00F.png) |
