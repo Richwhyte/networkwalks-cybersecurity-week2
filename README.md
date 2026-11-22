@@ -100,19 +100,19 @@ The following screenshots document the practical activities performed during the
 
 | Tool / Activity | Evidence |
 |:---|:---|
-| WHOIS Lookup | [📸 View Screenshot](./screenshots/PM1/01_WHOIS.png) |
-| WhatWeb Enumeration | [📸 View Screenshot](./screenshots/PM1/02_WhatWeb.png) |
-| Nslookup Resolution | [📸 View Screenshot](./screenshots/PM1/03_Nslookup.png) |
-| cURL Header Inspection | [📸 View Screenshot](./screenshots/PM1/04_cURL.png) |
-| WAFW00F Firewall Detection | [📸 View Screenshot](./screenshots/PM1/05_WAFW00F.png) |
-| DNSRecon Enumeration | [📸 View Screenshot](./screenshots/PM1/06_DNSRecon.png) |
+| WHOIS Lookup | [📸 View Screenshot](01_WHOIS.png) |
+| WhatWeb Enumeration | [📸 View Screenshot](02_WhatWeb.png) |
+| Nslookup Resolution | [📸 View Screenshot](03_Nslookup.png) |
+| cURL Header Inspection | [📸 View Screenshot](04_cURL.png) |
+| WAFW00F Firewall Detection | [📸 View Screenshot](05_WAFW00F.png) |
+| DNSRecon Enumeration | [📸 View Screenshot](06_DNSRecon.png) |
 
 ### 🌐 PM5 – NETWORK SCANNING WITH ZENMAP
 
 | Tool / Activity | Evidence |
 |:---|:---|
-| Zenmap Ping Scan Results | [📸 View Screenshot](./screenshots/PM5/Zenmap1.png) |
-| Zenmap Network Topology | [📸 View Screenshot](./screenshots/PM5/Zenmap2.png) |
+| Zenmap Ping Scan Results | [📸 View Screenshot](Zenmap1.png) |
+| Zenmap Network Topology | [📸 View Screenshot](Zenmap2.png) |
 
 ---
 
