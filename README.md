@@ -111,8 +111,8 @@ The following screenshots document the practical activities performed during the
 
 | Tool / Activity | Evidence |
 |:---|:---|
-| Zenmap Ping Scan Results | [📸 View Screenshot](Zenmap1.png) |
-| Zenmap Network Topology | [📸 View Screenshot](Zenmap2.png) |
+| Zenmap Ping Scan Results | [📸 View Screenshot](zenmap1.png) |
+| Zenmap Network Topology | [📸 View Screenshot](zenmap2.png) |
 
 ---
 
