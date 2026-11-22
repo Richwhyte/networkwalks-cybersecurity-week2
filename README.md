@@ -103,7 +103,7 @@ The following screenshots document the practical activities performed during the
 | WHOIS Lookup | [📸 View Screenshot](01_whois.png) |
 | WhatWeb Enumeration | [📸 View Screenshot](02_whatweb.png) |
 | Nslookup Resolution | [📸 View Screenshot](03_nslookup.png) |
-| cURL Header Inspection | [📸 View Screenshot](04_cURL.png) |
+| cURL Header Inspection | [📸 View Screenshot](04_curl_headers.png) |
 | WAFW00F Firewall Detection | [📸 View Screenshot](05_WAFW00F.png) |
 | DNSRecon Enumeration | [📸 View Screenshot](06_DNSRecon.png) |
 
